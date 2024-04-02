@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         while (true) {
-            System.out.println("--------------Hùng Store---------------");
+            System.out.println("--------------Main---------------");
             System.out.println("1. Xem shop");
             System.out.println("2. Đăng nhập");
             System.out.println("3. Đăng kí");
@@ -28,7 +28,7 @@ public class Main {
                     userImplement.login();
                     break;
                 case 3:
-                    System.out.println("========DDang ki tai khoản===========");
+                    System.out.println("========Dang ki tai khoản===========");
                     userImplement.register();
                     break;
                 case 4:

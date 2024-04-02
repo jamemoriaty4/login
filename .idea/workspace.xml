@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d101d0c9-40d4-4f08-b650-691a9a5bc5bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jbcrypt_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/data/user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/design/IDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/design/IUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/designImplement/UserImplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/entity/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/IOFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/InputMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/ShopConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/ShopMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/ShopValidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/admin/DashBoardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/run/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/user/HomePageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss1-review.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Javaa-core/java_download/jbcrypt-0.4.jar",
     "node.js.detected.package.eslint": "true",
@@ -103,7 +82,7 @@
       <workItem from="1711985225770" duration="1692000" />
       <workItem from="1711987367100" duration="77000" />
       <workItem from="1711987455240" duration="77000" />
-      <workItem from="1712024923905" duration="3080000" />
+      <workItem from="1712024923905" duration="3502000" />
     </task>
     <servers />
   </component>
